@@ -1,9 +1,9 @@
 
-#Todo app
+# Todo app
 
 In the project directory, you can run:
 `npm init`
-go to the folder
+< br / > go to the folder
 ## `cd frontend/todoapp`
 ### `npm start`
 
