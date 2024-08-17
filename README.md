@@ -3,8 +3,8 @@
 
 In the project directory, you can run:
 `npm init`
-< br / > go to the folder
-## `cd frontend/todoapp`
+<br> go to the folder
+### `cd frontend/todoapp`
 ### `npm start`
 
 Runs the app in the development mode.\
